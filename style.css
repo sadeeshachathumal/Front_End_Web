@@ -1,0 +1,92 @@
+.bcolor {
+    background-image: url("black-stone-texture-dark-slate-background-top-view_88281-1206.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.logo {
+    background-image: url("NewTech.png");
+    height: 100px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: -130px;
+}
+
+.img2 {
+    background-image: url("biometrics-identification-4152283-3457274.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.text {
+    font-size: 15px;
+    font-family: Arial;
+    color: rgb(178, 178, 178);
+    margin-top: 70px;
+}
+
+.span {
+    font-size: 40px;
+    font-family: Arial;
+    color: rgb(255, 68, 0);
+    margin-top: 207px;
+    font-weight: bold;
+}
+
+/* .backgr{
+    background-image: linear-gradient(1000deg, rgba(51, 124, 233, 0.186), rgba(51, 227, 233, 0.663));
+} */
+
+.logo2 {
+    background-image: url("NewTech.png");
+    height: 70px;
+    background-size: contain;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+
+.x{
+    height: 450px;  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo3 {
+    background-image: url("NewTech.png");
+    height: 200px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.bgimg{
+    background-image: url("black-stone-texture-dark-slate-background-top-view_88281-1206.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.bd{
+    background-image: linear-gradient(120deg, rgb(255, 255, 255), rgba(0, 0, 0, 0.379));
+}
+.wp{
+    width: 50px;
+}
+.img3 {
+    background-image: url("bgimg/60ddc159a40f8e3e5e7861b7_Web\ Payment\ Photo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.payment1{
+    width: 50pt;
+}
+.payment2{
+    width: 30pt;
+}
+.bt1:hover{
+    background-color: rgb(4, 216, 253);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    transition-duration: 0s;
+}
+
